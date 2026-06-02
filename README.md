@@ -4,7 +4,7 @@ A proof-of-concept scrollytelling interface where map state (camera position, pi
 
 **Status: ~30% complete. Three chapters functional. Active development.**
 
-Live demo: [link]
+Live demo: https://gisdirk.github.io/Mapbox-Scrollytelling/
 
 ---
 
