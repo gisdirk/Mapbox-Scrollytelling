@@ -66,8 +66,8 @@ data/             GeoJSON route and point data
 No build step required.
 
 ```bash
-git clone https://github.com/[your-handle]/mapbox-scrollytelling-prototype
-cd mapbox-scrollytelling-prototype
+git clone https://github.com/gisdirk/Mapbox-Scrollytelling
+cd Mapbox-Scrollytelling
 ```
 
 Add your Mapbox public token to `map.js`:
