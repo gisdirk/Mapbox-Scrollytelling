@@ -51,12 +51,10 @@ LLMs were used as scaffolding tools to prototype Mapbox GL effects and adapt exi
 ## Structure
 
 ```
-index.html        Main entry point
+index.html        Mapbox initialisation, scroll binding, animation logic
 style.css         Layout and typography
 config.js         Chapter definitions (location, zoom, pitch, bearing, content)
-map.js            Mapbox initialisation, scroll binding, animation logic
-assets/           Images and video assets
-data/             GeoJSON route and point data
+assets/           Images and video assets, GeoJSON route
 ```
 
 ---
